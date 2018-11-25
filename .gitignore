@@ -1,5 +1,9 @@
 .project
 .setting
-.classpath
+*.classpath
 .idea
-**.bak
+**/target
+**/bin
+**/*.class
+**/*.bak
+*.iml
