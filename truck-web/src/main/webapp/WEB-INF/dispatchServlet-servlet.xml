@@ -10,7 +10,7 @@
 
 	<context:component-scan base-package="com.dong.web"/>
 	<mvc:annotation-driven>
-		<!-- master分支修改-->
+		<!-- master分支修改2-->
 		<mvc:argument-resolvers>
 			<ref bean="environment"/>
 		</mvc:argument-resolvers>
