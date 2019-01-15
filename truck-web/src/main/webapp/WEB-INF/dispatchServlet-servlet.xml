@@ -10,7 +10,11 @@
 
 	<context:component-scan base-package="com.dong.web"/>
 	<mvc:annotation-driven>
+<<<<<<< HEAD
 		<!-- master分支修改2-->
+=======
+		<!-- pay分支修改2 -->
+>>>>>>> pay
 		<mvc:argument-resolvers>
 			<ref bean="environment"/>
 		</mvc:argument-resolvers>
