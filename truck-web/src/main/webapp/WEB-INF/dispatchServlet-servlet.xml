@@ -11,7 +11,7 @@
 	<context:component-scan base-package="com.dong.web"/>
 	<mvc:annotation-driven>
 <<<<<<< HEAD
-		<!-- master分支修改2-->
+		<!-- master分支修改3-->
 =======
 		<!-- pay分支修改2 -->
 >>>>>>> pay
